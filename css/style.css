@@ -1,3 +1,4 @@
 main {
-    height: 950px;
+    height: 550px;
+    background: linear-gradient(yellow, red);
 }
